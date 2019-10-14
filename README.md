@@ -12,9 +12,6 @@
 ## Sobre 
 O projeto consiste de uma implementacao do algoritmo de huffman de compressao de dados para entender como ele comprime e qual a sua eficiencia.
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
-
 ## Instalação 
 **Linguagem**: Python 3
 
