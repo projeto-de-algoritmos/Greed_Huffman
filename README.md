@@ -1,6 +1,6 @@
 # Compressao de Huffman
 
-**Número da Lista**: 3
+**Número da Lista**: 3  
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos
 
 ## Alunos
