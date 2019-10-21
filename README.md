@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 17/0013693 |  Joao Gabriel Rossi |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0013278  |  Ivan Diniz Dobbin |
 
 ## Sobre 
 O projeto consiste de uma implementacao do algoritmo de huffman de compressao de dados para entender como ele comprime e qual a sua eficiencia.
